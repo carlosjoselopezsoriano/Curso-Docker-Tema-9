@@ -24,3 +24,6 @@ name: Maven CI/CD
 		  
         - name: Build project with Maven
         run: mvn -B package
+
+
+        
